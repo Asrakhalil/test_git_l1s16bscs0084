@@ -1,4 +1,3 @@
-"Name: Asra" 
+"Name: ASRA" 
 Email: asra.khalil@ucp.edu.pk
 faculty of information technology
-ucp
